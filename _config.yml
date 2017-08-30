@@ -1,6 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
+#
 baseurl:
 url: http://mazhuang.org
 date_format: "ordinal"
